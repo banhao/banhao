@@ -1,6 +1,6 @@
 ### About Me 👋
 
-[![HAO BAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=banhao&show_icons=true&theme=dracula)](https://github.com/banhao/github-readme-stats)
+[![HAO BAN's GitHub stats](https://github-readme-stats.vercel.app/api?username=banhao&show_icons=true&theme=tokyonight)](https://github.com/banhao/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banhao&layout=compact)](https://github.com/banhao/github-readme-stats)
 
