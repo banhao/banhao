@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My Binance Referral ID: 85852771  https://accounts.binance.com/zh-CN/register?ref=85852771
+My Binance Referral ID: 85852771  https://accounts.binance.com/en/register?ref=85852771
+                            中文  https://accounts.binance.com/zh-CN/register?ref=85852771
