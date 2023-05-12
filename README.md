@@ -1,7 +1,3 @@
-My Binance Referral ID: 85852771  https://accounts.binance.com/en/register?ref=85852771
-
-我的币安推荐ID：85852771  https://accounts.binance.com/zh-CN/register?ref=85852771
-
 My Shakepay Referral Link: https://shakepay.me/r/ZMLG4KJ
 
 我的Shakepay推荐链接: https://shakepay.me/r/ZMLG4KJ
